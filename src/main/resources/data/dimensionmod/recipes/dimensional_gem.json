@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "FDF",
+    "FFF"
+  ],
+  "key": {
+    "D": {
+      "item": "dimensionmod:dimensional_shard"
+    },
+    "F": {
+      "item": "dimensionmod:fading_star_dust"
+    }
+  },
+  "result": {
+    "item": "dimensionmod:dimensional_gem"
+  }
+}

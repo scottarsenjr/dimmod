@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "DND",
+    " D "
+  ],
+  "key": {
+    "D": {
+      "item": "dimensionmod:fading_star_dust"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "dimensionmod:fading_star"
+  }
+}

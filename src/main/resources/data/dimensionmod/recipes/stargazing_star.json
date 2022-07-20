@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FDF",
+    "DED",
+    "FDF"
+  ],
+  "key": {
+    "D": {
+      "item": "dimensionmod:dimensional_gem"
+    },
+    "F": {
+      "item": "dimensionmod:fading_star"
+    },
+    "E": {
+      "item": "dimensionmod:earth_spirit"
+    }
+  },
+  "result": {
+    "item": "dimensionmod:stargazing_heart"
+  }
+}

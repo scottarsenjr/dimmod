@@ -1,0 +1,12 @@
+{
+  "okayipullup": {
+    "category": "hostile",
+    "subtitle": "dimensionmode.okayipullup",
+    "sounds": [
+      {
+        "name": "dimensionmod:okayipullup",
+        "stream": true
+      }
+    ]
+  }
+}

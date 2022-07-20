@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DSD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "dimensionmod:dimensional_dust"
+    },
+    "S": {
+      "item": "dimensionmod:stained_diamond"
+    }
+  },
+  "result": {
+    "item": "dimensionmod:dimensional_shard"
+  }
+}

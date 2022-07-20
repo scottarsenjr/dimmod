@@ -1,0 +1,17 @@
+{
+  "item.dimensionmod.stained_diamond": "Stained Diamond",
+  "item.dimensionmod.dimensional_shard": "Dimensional Shard",
+  "item.dimensionmod.dimensional_dust": "Dimensional Dust",
+  "item.dimensionmod.dimensional_gem": "§dDimensional Gem",
+  "item.dimensionmod.fading_star_dust": "§dFading Star Dust",
+  "item.dimensionmod.stargazing_heart": "§d§lStargazing Heart",
+  "item.dimensionmod.earth_spirit": "§dEarth Spirit",
+  "item.dimensionmod.fading_star": "§dFading Star",
+
+  "block.dimensionmod.dimensional_dust_ore": "Dimensional Dust Ore",
+  "block.dimensionmod.meteorite_block": "Meteorite Block",
+
+  "entity.dimensionmod.earth_golem": "Earth Golem",
+
+  "itemGroup.dimensiontab": "Dimension Mod"
+}
